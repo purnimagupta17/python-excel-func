@@ -27,4 +27,33 @@ print(str2[::-1])
 name='sam'
 #name[0]='P'
 last_letters=name[1:]
-last-letters
+last_letters
+'P'+last_letters
+
+#to combine two sentences/stings
+
+x='Hello World'
+x=x+ " It is beautiful outside"
+x
+
+#to concatenate the string
+letter='z'
+letter*10
+
+#to concatenate the string
+2+3
+'2'+'3'
+
+#to change the string to uppercase and lowercase
+x='Hello World'
+x
+
+x.upper()
+x.lower()
+
+#to split the string
+x.split()
+
+#to split the string based on some specific characters
+x.split('o')
+
